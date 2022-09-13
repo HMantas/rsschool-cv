@@ -24,3 +24,7 @@
 * English - C1
 * Russian - B2
 * Italian - B1
+
+## Contact
+
+[Discord](https://discord.com)
