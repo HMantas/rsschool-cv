@@ -27,4 +27,5 @@
 
 ## Contact
 
-[Discord](https://discord.com)
+* [Discord](https://discord.com)
+* [LinkdedIn](https://linkdedin.com)
